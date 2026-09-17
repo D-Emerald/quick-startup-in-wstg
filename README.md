@@ -23,7 +23,7 @@ I'm still learning, and I don't expect that to stop. Hopefully, this helps overc
 
 ### OWASP WSTG Kit
 
-[OWASP WSTG Kit](./OWASP-WSTG-Kit/)
+[OWASP WSTG Kit](./OWASP%20WSTG%20Kit/)
 
 A collection of the OWASP WSTG and a structured, Excel-based web security testing workflow, designed to provide guidance on what to test and when during an assessment.
 
