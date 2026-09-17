@@ -41,7 +41,7 @@ MD5 hash for the Excel-based ZIP file: `D8915BB9D345702C12B428E8E78E424B`
 * [Getting Started with Command Injection (Approx. 13:05 Walkthrough)](https://www.youtube.com/watch?v=N_7-lA6UWHM&t=630s)
 * [Hacking Web Applications (Approx. 2:33:00 Walkthrough)](https://www.youtube.com/watch?v=1GJ_LwNw6sc)
 * [How to Import Postman Collections (Approx. 2:13 Walkthrough)](https://www.youtube.com/watch?v=-4CNWIPJDgo)
-* [Postman API Testing (Approx. 2:33:00 Walkthrough)](https://www.youtube.com/watch?v=CLG0ha_a0q8&t=5s)
+* [Postman API Testing (Approx. 8:30 Walkthrough)](https://www.youtube.com/watch?v=CLG0ha_a0q8&t=5s)
 
 ### OWASP ZAP
 
