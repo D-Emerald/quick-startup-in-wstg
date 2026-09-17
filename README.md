@@ -63,4 +63,4 @@ MD5 hash for the Excel-based ZIP file: `D8915BB9D345702C12B428E8E78E424B`
 
 ## Licensing
 
-See [LICENSING.md](LICENSING.md) for information about third-party resources and attribution. 
+See [LICENSING.md](LICENSING.md) for information about third-party resources and attribution.
